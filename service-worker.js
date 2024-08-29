@@ -5,8 +5,9 @@ const assetsToCache = [
   '/style.css',
   '/app.js',
   '/manifest.json',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png'
+  '/favicon.png', // Updated path
+  '/screenshot1.png', // Updated path
+  '/screenshot2.png'  // Updated path
 ];
 
 self.addEventListener('install', event => {
