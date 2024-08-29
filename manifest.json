@@ -2,7 +2,7 @@
     "name": "Weather App",
     "short_name": "Weather",
     "description": "A weather forecasting app",
-    "start_url": "/index.html",
+    "start_url": "/weather_pwa",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
